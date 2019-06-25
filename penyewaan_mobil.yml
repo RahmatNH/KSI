@@ -1,0 +1,179 @@
+%YAML 1.1
+---
+# penyewaan mobil.konsumen
+-
+  no_identitas: 1212547698
+  nama: "Harno"
+  no_telp: 98879097
+  alamat: "Jl.DIPanjaitan"
+-
+  no_identitas: 1232447676
+  nama: "Hana"
+  no_telp: 93376621
+  alamat: "Dongkelan"
+-
+  no_identitas: 1234132111
+  nama: "Beno"
+  no_telp: 98987676
+  alamat: "Prayan Raya"
+-
+  no_identitas: 1235432324
+  nama: "Hasno"
+  no_telp: 87867890
+  alamat: "Gedong Kiwo"
+-
+  no_identitas: 1245132131
+  nama: "Bejo"
+  no_telp: 87878890
+  alamat: "Gedong Tengen"
+-
+  no_identitas: 1274132765
+  nama: "Risna"
+  no_telp: 87878744
+  alamat: "Depok"
+-
+  no_identitas: 1342547686
+  nama: "Resna"
+  no_telp: 90170007
+  alamat: "Depok"
+# penyewaan mobil.mobil
+-
+  no_plat: "AB1234DF"
+  jenis_mobil: "Toyota Alphard"
+-
+  no_plat: "AB1254DF"
+  jenis_mobil: "Toyota Avanza"
+-
+  no_plat: "AB1341DE"
+  jenis_mobil: "Honda Jazz"
+-
+  no_plat: "AB2121FD"
+  jenis_mobil: "Nissan Grand Livina"
+-
+  no_plat: "AB2132DE"
+  jenis_mobil: "Honda Jazz"
+-
+  no_plat: "AB2321FE"
+  jenis_mobil: "Toyota Alphard"
+-
+  no_plat: "AB3124DF"
+  jenis_mobil: "Daihatsu Grand Max"
+-
+  no_plat: "AB3241FD"
+  jenis_mobil: "Toyota Avanza"
+-
+  no_plat: "AB3245FE"
+  jenis_mobil: "Toyota Avanza"
+-
+  no_plat: "AB4324FF"
+  jenis_mobil: "Daihatsu Grand Max"
+# penyewaan mobil.pengemudi
+-
+  no_pengemudi: 12123113
+  nama: "Kholil Azhari"
+  alamat: "Prayan Raya"
+  no_telp: 87878654
+-
+  no_pengemudi: 12123114
+  nama: "Taufik Hidayat"
+  alamat: "Jl.Wonosari KM 3"
+  no_telp: 89763542
+-
+  no_pengemudi: 12123115
+  nama: "Rahmat Nur Hidayat"
+  alamat: "Mantrijeron"
+  no_telp: 87878898
+-
+  no_pengemudi: 12123116
+  nama: "Muhamad Ali Ma'mun"
+  alamat: "Depok "
+  no_telp: 98876634
+-
+  no_pengemudi: 12123117
+  nama: "Hery Ardiansyah"
+  alamat: "Gejayan"
+  no_telp: 89769090
+-
+  no_pengemudi: 12123118
+  nama: "Cevin Figri"
+  alamat: "Babarsari"
+  no_telp: 98870987
+# penyewaan mobil.transaksi
+-
+  no_transaksi: 12344
+  no_identitas: 1212547698
+  no_pengemudi: 12123114
+  lama_menyewa: 2
+  tanggal_kembali: "2019-05-09"
+  no_plat: "AB1254DF"
+-
+  no_transaksi: 12345
+  no_identitas: 1245132131
+  no_pengemudi: 12123113
+  lama_menyewa: 3
+  tanggal_kembali: "2019-05-11"
+  no_plat: "AB1254DF"
+-
+  no_transaksi: 12346
+  no_identitas: 1212547698
+  no_pengemudi: 12123116
+  lama_menyewa: 4
+  tanggal_kembali: "2019-05-21"
+  no_plat: "AB1254DF"
+-
+  no_transaksi: 12347
+  no_identitas: 1274132765
+  no_pengemudi: 12123118
+  lama_menyewa: 2
+  tanggal_kembali: "2019-05-19"
+  no_plat: "AB1234DF"
+-
+  no_transaksi: 12348
+  no_identitas: 1234132111
+  no_pengemudi: 12123117
+  lama_menyewa: 4
+  tanggal_kembali: "2019-05-21"
+  no_plat: "AB1341DE"
+-
+  no_transaksi: 12349
+  no_identitas: 1274132765
+  no_pengemudi: 12123116
+  lama_menyewa: 2
+  tanggal_kembali: "2019-05-15"
+  no_plat: "AB3124DF"
+-
+  no_transaksi: 12350
+  no_identitas: 1245132131
+  no_pengemudi: 12123115
+  lama_menyewa: 4
+  tanggal_kembali: "2019-05-27"
+  no_plat: "AB4324FF"
+-
+  no_transaksi: 12351
+  no_identitas: 1342547686
+  no_pengemudi: 12123113
+  lama_menyewa: 2
+  tanggal_kembali: "2019-05-28"
+  no_plat: "AB3241FD"
+-
+  no_transaksi: 12352
+  no_identitas: 1234132111
+  no_pengemudi: 12123115
+  lama_menyewa: 3
+  tanggal_kembali: "2019-05-26"
+  no_plat: "AB3245FE"
+-
+  no_transaksi: 12353
+  no_identitas: 1212547698
+  no_pengemudi: 12123117
+  lama_menyewa: 4
+  tanggal_kembali: "2019-05-30"
+  no_plat: "AB1254DF"
+-
+  no_transaksi: 12354
+  no_identitas: 1274132765
+  no_pengemudi: 12123116
+  lama_menyewa: 2
+  tanggal_kembali: "2019-05-29"
+  no_plat: "AB3124DF"
+...
